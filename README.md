@@ -1,6 +1,6 @@
 ## Hello World! 👋 :earth_americas:
 
-I'm a Software Developer living in Uruguay with 7+ years of experience. Participation in competitive programming events. Development of web and mobile applications as programmer and analyst.
+I'm a Software Developer living in Uruguay with 8+ years of experience. Participation in competitive programming events. Development of web and mobile applications as programmer and analyst.
 
 Continuous personal development and improve myself in the field of computer science, information technology and science in general.
 
@@ -41,7 +41,8 @@ Here are some ideas to get you started:
 
 #### 💬 Ask me about ...
 
-- Algorithms, Machine Learning, doubts about your code, and life dilemmas 😄
+- Algorithms, Machine Learning, doubts about your code, life dilemmas, and Video Games 😄
+- Last Games that is played: Metal Geat Solid All the franchise, Cyberpunk 2077, Detroit: Become Human
 
 #### 📫 How to reach me ...
 - LinkedIn: https://www.linkedin.com/in/vdsancheza/
