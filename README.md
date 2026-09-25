@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Victor's github stats](https://github-stats-extended.vercel.app/api?username=vdsancheza&theme=dark_github)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vdsancheza&rank_icon=github&custom_title=Victor%27s%20Stats&show_icons=true&include_all_commits=true&theme=maroongold)](https://github-stats-extended.vercel.app/api?username=vdsancheza&rank_icon=github&custom_title=Victor%27s%20Stats&show_icons=true&include_all_commits=true&theme=maroongold)
 
-[![Victor's Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=vdsancheza&theme=dark_github)](https://github.com/stats-organization/github-stats-extended)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=vdsancheza&layout=compact&theme=maroongold)](https://github-stats-extended.vercel.app/api/top-langs?username=vdsancheza&layout=compact&theme=maroongold)
 
 #### 🔭 I’m currently working on ...
 
